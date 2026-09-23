@@ -21,6 +21,13 @@
   },
   "remoteUser": "frappe",
   "customizations": {
+    "codespaces": {
+  "repositories": {
+    "Vivek-Exim16/ap_invoice_automation": {
+      "permissions": { "contents": "write", "pull_requests": "write" }
+    }
+  }
+},
     "vscode": {
       "extensions": [
         "ms-python.python",
